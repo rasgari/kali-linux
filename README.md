@@ -1,7 +1,4 @@
-# kali-linux
-
-فیکس فوری:
-
+# kali linux
 این دستور را بزن:
 ```
 sudo wget https://archive.kali.org/archive-key.asc -O /etc/apt/trusted.gpg.d/kali-archive-key.asc
